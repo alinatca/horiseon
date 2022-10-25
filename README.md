@@ -14,8 +14,10 @@ The challenge I've faced here was to update the code using semantic tags and kee
 
 Definitely attention to detail was a big role in this challenge because there were missing IDs, alt="" elements added in divs, and a lot of classes with the same styling. Getting the above-mentioned changes I was able to minimize both HTML and CSS codes and create a better understanding of the code.
 
-Here is the live URL:
-The same layout has been kept and the code has been updated to accessibility standards. Preview the website below: https://github.com/alinatca/horiseon/blob/f7b91905cfeb79d84d43b3b52c5439242aeab09c/website-layout.png
+Here is the live URL: https://alinatca.github.io/horiseon/
+  
+The same layout has been kept and the code has been updated to accessibility standards. Preview the website below: ![website-layout](https://user-images.githubusercontent.com/99126225/197775433-a4f04661-b4ca-442f-b4c9-b8275c26b9b0.png)
+
 
 # Things I learned
 
